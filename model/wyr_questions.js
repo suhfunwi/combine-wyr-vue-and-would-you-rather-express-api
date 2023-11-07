@@ -15,8 +15,8 @@ const questions = [
         'answer2': 'Breath underwater'
     },
     {
-        'question': 'Play any musical instrument or speak any lanugage?',
-        'answer1': 'Play any musical instrment',
+        'question': 'Play any musical instrument or speak any language?',
+        'answer1': 'Play any musical instrument',
         'answer2': 'Speak any language'
     },
     {
