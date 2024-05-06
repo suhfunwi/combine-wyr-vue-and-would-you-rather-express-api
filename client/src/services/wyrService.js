@@ -1,5 +1,3 @@
-import {response} from "express";
-
 export default {
     getRandomWYR() {
         return fetch('/wyr').then(response =>{
